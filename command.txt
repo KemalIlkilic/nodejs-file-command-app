@@ -1,0 +1,4 @@
+create a file kemal.txt
+rename the file kemal.txt to onur.txt
+add to the file onur.txt this content: some text
+delete the file onur.txt
